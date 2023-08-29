@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marciox-dev
-- 👀 I’m interested in programming with Javascript doing Apps to sell and make money.
+- 👀 I’m interested in programming with Javascript specialy doing Apps and Info-Products.
 - 🌱 I’m currently learning JavaScript, React and Web development
 - 💞️ I’m looking to collaborate on real projects
 - 📫 How to reach me: marcioxerfan@gmail.com and here!
